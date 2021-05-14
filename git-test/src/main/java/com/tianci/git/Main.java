@@ -9,5 +9,6 @@ public class Main {
         System.out.println("hello jason.");
         System.out.println("hello world.");
         System.out.println("hello hot-fix.");
+        System.out.println("push test.");
     }
 }
